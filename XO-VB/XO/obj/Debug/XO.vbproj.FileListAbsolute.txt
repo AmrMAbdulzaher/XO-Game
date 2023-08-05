@@ -1,0 +1,12 @@
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\bin\Debug\XO.exe.config
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\bin\Debug\XO.exe
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\bin\Debug\XO.pdb
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\bin\Debug\XO.xml
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\obj\Debug\XO.vbprojAssemblyReference.cache
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\obj\Debug\XO.GameWindow.resources
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\obj\Debug\XO.Resources.resources
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\obj\Debug\XO.vbproj.GenerateResource.cache
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\obj\Debug\XO.vbproj.CoreCompileInputs.cache
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\obj\Debug\XO.exe
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\obj\Debug\XO.xml
+C:\Users\العفريت 25-4-2020\Desktop\XO\XO\obj\Debug\XO.pdb
